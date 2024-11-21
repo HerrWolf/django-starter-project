@@ -1,0 +1,20 @@
+{
+  "name": "django-starter-with-allauth-and-htmx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "watch": "tailwindcss -i ./app/static/css/tailwind.css -o ./app/static/css/style.css --watch",
+    "tailwind": "tailwindcss -i ./app/static/css/tailwind.css -o ./app/static/css/style.css",
+    "minify": "cleancss ./app/static/css/style.css -o ./app/static/css/style.min.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  },
+  "dependencies": {
+    "clean-css-cli": "^5.6.3"
+  }
+}

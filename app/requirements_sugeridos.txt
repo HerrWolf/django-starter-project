@@ -1,0 +1,21 @@
+Django
+django-allauth
+django-cleanup
+django-htmx
+pillow
+django-admin-honeypot-updated-2021
+django-extensions
+django-jazzmin
+python-decouple
+whitenoise
+django-admin-honeypot-updated-2021
+gunicorn
+
+
+
+
+# psycopg2-binary
+# dj-database-url
+# requests
+# cloudinary
+# cryptography 
